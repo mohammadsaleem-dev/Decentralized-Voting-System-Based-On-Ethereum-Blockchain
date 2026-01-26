@@ -1,3 +1,10 @@
+![GitHub Pages](https://img.shields.io/badge/github-pages-live-brightgreen)
+![License](https://img.shields.io/github/license/mohammadsaleem-dev/Decentralized-Voting-System-Based-On-Ethereum-Blockchain)
+![Repo Size](https://img.shields.io/github/repo-size/mohammadsaleem-dev/Decentralized-Voting-System-Based-On-Ethereum-Blockchain)
+![Last Commit](https://img.shields.io/github/last-commit/mohammadsaleem-dev/Decentralized-Voting-System-Based-On-Ethereum-Blockchain)
+![Stars](https://img.shields.io/github/stars/mohammadsaleem-dev/Decentralized-Voting-System-Based-On-Ethereum-Blockchain?style=social)
+
+
 # 🗳️ Decentralized Voting System on Ethereum Blockchain
 
 A **secure, transparent, and tamper-resistant voting system** built using **Ethereum smart contracts**, a **Node.js backend**, and a **modern web interface**.  
