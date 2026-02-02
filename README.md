@@ -1,8 +1,13 @@
-![GitHub Pages](https://img.shields.io/badge/github-pages-live-brightgreen)
+![GitHub Pages](https://img.shields.io/website?url=https%3A%2F%2Fmohammadsaleem-dev.github.io%2F&label=GitHub%20Pages)
 ![License](https://img.shields.io/github/license/mohammadsaleem-dev/Decentralized-Voting-System-Based-On-Ethereum-Blockchain)
 ![Repo Size](https://img.shields.io/github/repo-size/mohammadsaleem-dev/Decentralized-Voting-System-Based-On-Ethereum-Blockchain)
 ![Last Commit](https://img.shields.io/github/last-commit/mohammadsaleem-dev/Decentralized-Voting-System-Based-On-Ethereum-Blockchain)
+![Issues](https://img.shields.io/github/issues/mohammadsaleem-dev/Decentralized-Voting-System-Based-On-Ethereum-Blockchain)
+![Pull Requests](https://img.shields.io/github/issues-pr/mohammadsaleem-dev/Decentralized-Voting-System-Based-On-Ethereum-Blockchain)
+![Contributors](https://img.shields.io/github/contributors/mohammadsaleem-dev/Decentralized-Voting-System-Based-On-Ethereum-Blockchain)
+![Top Language](https://img.shields.io/github/languages/top/mohammadsaleem-dev/Decentralized-Voting-System-Based-On-Ethereum-Blockchain)
 ![Stars](https://img.shields.io/github/stars/mohammadsaleem-dev/Decentralized-Voting-System-Based-On-Ethereum-Blockchain?style=social)
+![Forks](https://img.shields.io/github/forks/mohammadsaleem-dev/Decentralized-Voting-System-Based-On-Ethereum-Blockchain?style=social)
 
 
 # 🗳️ Decentralized Voting System on Ethereum Blockchain
