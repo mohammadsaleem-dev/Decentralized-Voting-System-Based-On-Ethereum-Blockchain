@@ -217,13 +217,18 @@ https://opensource.org/licenses/MIT
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Project Team
 
+### Author
 **Mohammad Saleem**  
 Computer Engineering Graduate  
+🌐 Portfolio: https://mohammadsaleem-dev.github.io/
 
-Portfolio Website:  
-https://mohammadsaleem-dev.github.io/
+### Supervisor
+**Dr. Ramzi Saifan**
+
+### Project Partner
+**Omar Al Dura**
 
 ---
 
